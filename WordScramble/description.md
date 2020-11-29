@@ -1,0 +1,1 @@
+Word Scramble is a text puzzle game where the computer program picks a random secret word and generates a scrambled version of the text in which the letters are placed in random order. In order to win the game, the player has to guess the secret word (in its unscrambled form). If a player want to give up, they can enter "exit" to end the game. 
